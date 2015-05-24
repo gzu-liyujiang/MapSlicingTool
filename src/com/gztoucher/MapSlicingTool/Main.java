@@ -11,7 +11,7 @@ import com.ls.mappwidget.slicingtool.vo.PointVO;
  * @author liyujiang
  * 
  */
-public class MapSlicingTool {
+public class Main {
 
 	/**
 	 * @param args
