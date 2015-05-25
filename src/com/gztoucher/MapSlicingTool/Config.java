@@ -1,7 +1,7 @@
 package com.gztoucher.MapSlicingTool;
 
 public class Config {
-	public static String imgPath = "E:/map.jpg";// 待裁剪的图片
+	public static String imgPath = "E:/workspace/MapSlicingTool/map.jpg";// 待裁剪的图片
 	public static String saveDirPath = "E:/";// 裁剪后的保存路径
 	public static String name = "map";
 	public static int tileSize = 256;// 瓦片的大小
