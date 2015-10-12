@@ -1,7 +1,7 @@
 # MapSlicingTool
 Slicing image to map tile for MapWidget
 
-SlicingToolµÄĞŞ¸Ä°æ£¨https://github.com/lemberg/mappwidget/tree/master/slicingtool£©¡£
-×÷ÎªJava ApplicationÔËĞĞ£¬¶ø²»ÊÇEclipse Application£¨ÎÒµÄEclipseÓ²ÊÇÃ»°ÑÕâ¸ö²å¼şÕı³£ÔËĞĞÆğÀ´£©¡£
+SlicingToolçš„ä¿®æ”¹ç‰ˆï¼ˆhttps://github.com/lemberg/mappwidget/tree/master/slicingtoolï¼‰ã€‚
+ä½œä¸ºJava Applicationè¿è¡Œï¼Œè€Œä¸æ˜¯Eclipse Applicationï¼ˆæˆ‘çš„Eclipseç¡¬æ˜¯æ²¡æŠŠè¿™ä¸ªæ’ä»¶æ­£å¸¸è¿è¡Œèµ·æ¥ï¼‰ã€‚
 
-¾ßÌå²ÎÊıÍ¨¹ıConfigÀàÀ´ÅäÖÃ¡£
+å…·ä½“å‚æ•°é€šè¿‡Configç±»æ¥é…ç½®ã€‚
